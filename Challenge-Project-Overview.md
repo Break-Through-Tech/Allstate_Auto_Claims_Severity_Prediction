@@ -31,7 +31,7 @@
 **Technical Depth Score:** 8/10  
 **Overall Recommendation:** REVISE
 
-**Advisor Feedback Draft:**
+## Advisor Feedback Draft:
 The project offers a strong real-world application in the insurance domain that could be highly engaging for students. However, the project scope may benefit from clearer definitions around feature selection and model interpretability. Additionally, consider emphasizing the process of setting baseline models before moving to more complex algorithms. A call to action is to refine the learning outcomes for better clarity.
 
 ---
